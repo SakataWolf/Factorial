@@ -1,0 +1,16 @@
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.exe
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.deps.json
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.runtimeconfig.json
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.runtimeconfig.dev.json
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.dll
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\ref\Fatorial.dll
+D:\Etec\PA\Fatorial\Fatorial\bin\Debug\net5.0\Fatorial.pdb
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.csproj.AssemblyReference.cache
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.AssemblyInfoInputs.cache
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.AssemblyInfo.cs
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.dll
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\ref\Fatorial.dll
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.pdb
+D:\Etec\PA\Fatorial\Fatorial\obj\Debug\net5.0\Fatorial.genruntimeconfig.cache
